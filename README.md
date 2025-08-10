@@ -5,6 +5,7 @@ Prerequisites
 .NET 8 SDK
 Git
 SQLite
+
 Running on vs-code ide with C# extensions installed
 
 clone the repository
